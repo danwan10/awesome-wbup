@@ -18,4 +18,4 @@ We would love to add more awesome WBUP examples, prototypes and tools. Please do
 
 ## *News*
 
-- [News, Interrupted](https://news-interrupted.datainpublic.space/): [details](https://datainpublic.space/map/news-interrupted/).
+- [News, Interrupted](https://danwan10.github.io/chocolate/): [statistics on chocolate melt times](https://datainpublic.space/map/news-interrupted/).
